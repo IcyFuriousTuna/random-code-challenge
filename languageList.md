@@ -42,7 +42,14 @@
   * [Flask](http://flask.pocoo.org/)
   * [Pyramid](http://www.pylonsproject.org/)
   * [web2py](http://www.web2py.com/)
-* C#
+* [C#](https://github.com/quozd/awesome-dotnet)
+    * [ASP.NET](http://www.asp.net/mvc)
+    * [Nancy](http://nancyfx.org/)
+    * [MonoRail](https://github.com/castleproject/MonoRail/blob/master/MR2/docs/README.md)
+    * [Maverick.NET](http://mavnet.sourceforge.net/)
+    * [BADR](http://badrproject.codeplex.com/)
+    * [Cosmos](http://cwf.codeplex.com/)
+    * [Fubu MVC](http://fubuworld.com/fubumvc/index/)
 
 ## Uncommon
 
