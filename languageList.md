@@ -2,7 +2,25 @@
 
 ## Common
 
-* PHP
+* [PHP](http://php.net/) - [Awesome](https://github.com/ziadoz/awesome-php)
+  * [Plain PHP]()
+  * [Agavi](http://www.agavi.org/)
+  * [CakePHP](http://cakephp.org/)
+  * [CodeIgniter](http://www.codeigniter.com/)
+  * [F3](http://fatfreeframework.com/)
+  * [FuelPHP](http://fuelphp.com/)
+  * [Hazaar MVC](http://www.hazaarmvc.com/)
+  * [Laravel](https://laravel.com/)
+  * [Lithium](http://li3.me)
+  * [Nette Framework](https://nette.org/)
+  * [Nova Framework](http://novaframework.com)
+  * [Phalcon](https://phalconphp.com/)
+  * [PHPixie](https://phpixie.com/)
+  * [Silex](http://silex.sensiolabs.org/)
+  * [Symfony](http://symfony.com/)
+  * [Yii](http://www.yiiframework.com/)
+  * [Zend Framework](http://framework.zend.com/)
+  * [Zikula](http://zikula.org/)
 * [Java](http://www.oracle.com/technetwork/java/javase/overview/java8-2100321.html) - [Awesome](https://github.com/akullpp/awesome-java)
   * [Plain Java]()
   * [Spring boot](http://projects.spring.io/spring-boot/)
@@ -17,8 +35,14 @@
   * [Pippo](http://www.pippo.ro/)
   * [Ninja](http://www.ninjaframework.org/)
 * Ruby
-* Python
-* c#
+* [Python](https://www.python.org/) - [Awesome](https://github.com/vinta/awesome-python)
+  * [Bottle](bottlepy.org/)
+  * [CherryPy](http://cherrypy.org/)
+  * [Django](https://www.djangoproject.com/)
+  * [Flask](http://flask.pocoo.org/)
+  * [Pyramid](http://www.pylonsproject.org/)
+  * [web2py](http://www.web2py.com/)
+* C#
 
 ## Uncommon
 
